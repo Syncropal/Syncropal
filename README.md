@@ -36,7 +36,7 @@
 
   [![YouTube Music](https://img.shields.io/badge/▶_Play_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FOjdXSrtUxA)
 
-<a href="https://youtu.be/FOjdXSrtUxA">
+<a href="[https://youtu.be/FOjdXSrtUxA](https://youtu.be/XR7Ev14vUh8?si=qdrV1pWvywYXxVhj)">
   <img src="https://img.youtube.com/vi/FOjdXSrtUxA/mqdefault.jpg" width="200">
 </a>
 </a>
