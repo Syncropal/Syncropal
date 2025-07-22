@@ -34,11 +34,12 @@
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=syncropal&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-  <!-- Spotify - The Weeknd "Pray For Me" -->
-  <h3>🎧 Now Playing</h3>
-  <br>
-  <a href="https://open.spotify.com/track/6H6kMywg4L0Y3lSmlf7kIX">
-  <img src="https://spotify-github-readme.vercel.app/api/spotify?theme=novatorem" alt="Now Playing" width="400">
+  [![YouTube Music](https://img.shields.io/badge/▶_Play_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FOjdXSrtUxA)
+
+<a href="https://youtu.be/FOjdXSrtUxA">
+  <img src="https://img.youtube.com/vi/FOjdXSrtUxA/mqdefault.jpg" width="200">
+</a>
+</a>
   <br>
   <!-- Quote -->
   <h3>💡 Today's Quote</h3>
