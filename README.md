@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://Instagram.com/tripal_ezyy69">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      <img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="mailto:Syncrobyte7@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=syncropal.syncropal" alt="Visitors">
 
   <!-- Tech Stack -->
-  <h3>🛠 Tech Stack</h3>
+  <h3>When I code, I rely on</h3>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,java,aws,figma,tailwind&perline=6" alt="Tech Stack" />
 
   <!-- Stats Cards -->
@@ -32,17 +32,10 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncropal&layout=compact&theme=radical&langs_count=8" />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=syncropal&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-  [![YouTube Music](https://img.shields.io/badge/▶_Play_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FOjdXSrtUxA)
-
-<a href="[https://youtu.be/FOjdXSrtUxA](https://youtu.be/XR7Ev14vUh8?si=qdrV1pWvywYXxVhj)">
-  <img src="https://img.youtube.com/vi/FOjdXSrtUxA/mqdefault.jpg" width="200">
-</a>
-</a>
-  <br>
+  <img src="https://streak-stats.demolab.com?user=syncropal&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> <br>
+  
   <!-- Quote -->
-  <h3>💡 Today's Quote</h3>
+  <h3>💡 Quote of the Day</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 
   <!-- Snake Game -->
