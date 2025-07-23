@@ -17,7 +17,7 @@
     </a>
   </p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncropal.syncropal" alt="Visitors">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbslvLHavdzSpNZaRrAP4K-zr3sf90ONmgA&s" width="200" alt="Superman" style="border: 3px solid #DC143C; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 91, 187, 0.5);">
 
   <h3>When I code, I rely on</h3>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,java,aws,figma,tailwind&perline=6" alt="Tech Stack" />
