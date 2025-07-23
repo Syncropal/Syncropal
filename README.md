@@ -26,7 +26,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=syncropal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncropal&layout=compact&theme=radical&langs_count=8" />
 
-  <img src="https://streak-stats.demolab.com?user=syncropal&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> <br>
+   <br>
   
   <h3>💡 Quote of the Day</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
