@@ -1,7 +1,8 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38F7D6&width=550&lines=Welcome+Hero!+👋;I'm+Tripal+Bayalkoti;Full-Stack+Developer;From+DHI,+Nepal)](https://git.io/typing-svg)
- 
+
+ Connect with Me:
   <p>
     <a href="https://linkedin.com/in/tripal-bayalkoti-52b582338/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
